@@ -11,6 +11,7 @@ Features:
 3.Clean and minimalist design.
 
 
+
 Technologies Used:
 
 1.HTML: Used for structuring the layout of the digital clock.
