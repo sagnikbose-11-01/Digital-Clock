@@ -2,6 +2,10 @@
 
 This is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, updating in real-time.
 
+### Live Demo
+
+Try it out : https://sagnikbose-11-01.github.io/Digital-Clock/
+
 ### Features
 
 - Shows the current time in hours, minutes, and seconds.
